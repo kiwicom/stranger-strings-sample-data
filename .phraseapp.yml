@@ -1,0 +1,10 @@
+phraseapp:
+  project_id: 6060ce522686695dd7a1f8b1a854f121
+  # read only token
+  access_token: d2938af4228c5f289264cc14c44b770a954c5b57cb37808257c5b014d640fe30
+
+  file_format: simple_json
+
+  pull:
+    targets:
+    - file: ./<locale_name>.json
