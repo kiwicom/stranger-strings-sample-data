@@ -8,3 +8,9 @@ phraseapp:
   pull:
     targets:
     - file: ./<locale_name>.json
+
+  push:
+    sources:
+    - file: ./<locale_name>.json
+      params:
+        update_translations: true
