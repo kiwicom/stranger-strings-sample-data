@@ -1,5 +1,5 @@
 {
-  "about.benefits.1": "• Удивительность",
+  "about.benefits.1": "Удивительность",
   "about.benefits.2": "Скромность",
   "about.guarantee": "Беспокоитесь о чем-то? Teh {{companyName}} Гарантия вы охвачены.",
   "common.button": "Кнопку",
@@ -11,7 +11,7 @@
   "help.good": "Ли ответить на мой вопрос",
   "help.not_good": "Не отвечает на мой вопрос",
   "personal.email": "Электронной почты",
-  "personal.first_name": "Имя:",
+  "personal.first_name": "Имя",
   "personal.last_name": "Фамилия",
   "pricing.premium": "Всего €5 за 3 месяца",
   "pricing.support": "24/7 по вызову",

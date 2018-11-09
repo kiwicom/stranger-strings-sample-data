@@ -1,5 +1,5 @@
 {
-  "about.benefits.1": "• Vorbildung",
+  "about.benefits.1": "• vorbildung",
   "about.benefits.2": "Bescheidenheit",
   "about.guarantee": "Sorgen um etwas? Die {{companyName}} Garantie hat Sie abgedeckt.",
   "common.button": "Schaltfläche",
@@ -22,7 +22,7 @@
   "test.htmlBasic": "<strong>Wichtige Meldung</strong>",
   "test.htmlInvalid": "<strong>Nachricht<strong></strong></strong>",
   "test.htmlReact": "<span id=\"ref\" classname=\"link\">Etwas</span>",
-  "test.spelling": "Wery vrong Pelz",
+  "test.spelling": "Wery vrongg Pelz",
   "todos.actions.add": "Artikel hinzufügen",
   "todos.actions.delete": "Löschen Todo",
   "todos.actions.edit": "Artikel hinzufügen",
